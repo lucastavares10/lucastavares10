@@ -15,9 +15,9 @@ Apaixonado por tecnologia, atualmente focado em desenvolvimento backend e arquit
 
 ### 💼 Experiência Profissional
 
-**Desenvolvedor Back-end na Stefanini Brasil** - Trabalhando com JavaScript, NodeJS, NestJS e TypeScript em projetos de integração de autosserviço no WhatsApp para clientes Bradesco Seguros.
+**Desenvolvedor Back-end na Stefanini Brasil** - Trabalhando com NestJS e TypeScript em projetos de integração de autosserviço no WhatsApp para clientes Bradesco Seguros.
   
-**Desenvolvedor Fullstack na G4Flex** - Desenvolvi o FlexUC Omnichannel, um sistema completo de comunicação, integrando WhatsApp, Facebook, Telegram, entre outros.
+**Desenvolvedor Fullstack na G4Flex** - Contribuí no desenvolvimento do FlexUC Omnichannel, um sistema completo de comunicação e recursos de CRM, integrando Telefonia com Asterisk, WhatsApp, Facebook, Telegram, entre outros.
   
 **Desenvolvedor de Sistemas na Universidade Federal do Cariri** - Contribuí com o SIGAA, sistema de gestão acadêmica, com Java e JSF.
 
