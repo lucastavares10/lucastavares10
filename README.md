@@ -6,8 +6,8 @@ Apaixonado por tecnologia, atualmente focado em desenvolvimento backend e arquit
 
 ### 🛠️ Principais Tecnologias e Ferramentas
 
-- **Linguagens**: TypeScript, Go, Java
-- **Frameworks e Bibliotecas**: NestJS, React, Spring Boot, AWS Lambda
+- **Linguagens**: TypeScript, Java
+- **Frameworks e Bibliotecas**: NestJS, React, Spring Boot
 - **Banco de Dados**: PostgreSQL, MongoDB
 - **Outros**: Docker, Kubernetes, Nginx, Redis, RabbitMQ
 - **Metodologias e Arquiteturas**: Clean Architecture, Hexagonal Architecture, SOLID, Teste Unitário
